@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "healthy-habit-tracker"
+version = "2.0.0"
+description = "GreenFuture Hack Project #33 — Production-grade CLI & GUI Healthy Habit Tracker"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "matplotlib>=3.7.0",
+]
+
+[project.scripts]
+habit-tracker = "main:main"

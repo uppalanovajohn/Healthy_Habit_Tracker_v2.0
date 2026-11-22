@@ -1,0 +1,254 @@
+[
+    {
+        "date": "2026-11-09",
+        "category": "reading",
+        "value": 60.0,
+        "notes": "Clean Code chapter"
+    },
+    {
+        "date": "2026-11-09",
+        "category": "exercise",
+        "value": 20.0,
+        "notes": "Cycling session"
+    },
+    {
+        "date": "2026-11-09",
+        "category": "hydration",
+        "value": 6.0,
+        "notes": "Desk bottle refills"
+    },
+    {
+        "date": "2026-11-10",
+        "category": "reading",
+        "value": 25.0,
+        "notes": "Clean Code chapter"
+    },
+    {
+        "date": "2026-11-10",
+        "category": "exercise",
+        "value": 75.0,
+        "notes": "HIIT workout"
+    },
+    {
+        "date": "2026-11-10",
+        "category": "hydration",
+        "value": 5.0,
+        "notes": "Herbal tea & water"
+    },
+    {
+        "date": "2026-11-11",
+        "category": "reading",
+        "value": 15.0,
+        "notes": "Clean Code chapter"
+    },
+    {
+        "date": "2026-11-11",
+        "category": "exercise",
+        "value": 20.0,
+        "notes": "Strength training"
+    },
+    {
+        "date": "2026-11-11",
+        "category": "hydration",
+        "value": 6.0,
+        "notes": "Morning water + electrolytes"
+    },
+    {
+        "date": "2026-11-12",
+        "category": "reading",
+        "value": 45.0,
+        "notes": "System design article"
+    },
+    {
+        "date": "2026-11-12",
+        "category": "exercise",
+        "value": 75.0,
+        "notes": "HIIT workout"
+    },
+    {
+        "date": "2026-11-12",
+        "category": "hydration",
+        "value": 8.0,
+        "notes": "Desk bottle refills"
+    },
+    {
+        "date": "2026-11-13",
+        "category": "reading",
+        "value": 40.0,
+        "notes": "Evening novel"
+    },
+    {
+        "date": "2026-11-13",
+        "category": "exercise",
+        "value": 45.0,
+        "notes": "5km jog"
+    },
+    {
+        "date": "2026-11-13",
+        "category": "hydration",
+        "value": 6.0,
+        "notes": "Herbal tea & water"
+    },
+    {
+        "date": "2026-11-14",
+        "category": "reading",
+        "value": 30.0,
+        "notes": "Morning non-fiction"
+    },
+    {
+        "date": "2026-11-14",
+        "category": "exercise",
+        "value": 30.0,
+        "notes": "Strength training"
+    },
+    {
+        "date": "2026-11-14",
+        "category": "hydration",
+        "value": 7.0,
+        "notes": "Morning water + electrolytes"
+    },
+    {
+        "date": "2026-11-15",
+        "category": "reading",
+        "value": 15.0,
+        "notes": "Python docs"
+    },
+    {
+        "date": "2026-11-15",
+        "category": "exercise",
+        "value": 20.0,
+        "notes": "Cycling session"
+    },
+    {
+        "date": "2026-11-15",
+        "category": "hydration",
+        "value": 7.0,
+        "notes": "Post-workout hydration"
+    },
+    {
+        "date": "2026-11-16",
+        "category": "reading",
+        "value": 15.0,
+        "notes": "Python docs"
+    },
+    {
+        "date": "2026-11-16",
+        "category": "exercise",
+        "value": 60.0,
+        "notes": "5km jog"
+    },
+    {
+        "date": "2026-11-16",
+        "category": "hydration",
+        "value": 8.0,
+        "notes": "Morning water + electrolytes"
+    },
+    {
+        "date": "2026-11-17",
+        "category": "reading",
+        "value": 45.0,
+        "notes": "Morning non-fiction"
+    },
+    {
+        "date": "2026-11-17",
+        "category": "exercise",
+        "value": 75.0,
+        "notes": "HIIT workout"
+    },
+    {
+        "date": "2026-11-17",
+        "category": "hydration",
+        "value": 7.0,
+        "notes": "Desk bottle refills"
+    },
+    {
+        "date": "2026-11-18",
+        "category": "reading",
+        "value": 60.0,
+        "notes": "Clean Code chapter"
+    },
+    {
+        "date": "2026-11-18",
+        "category": "exercise",
+        "value": 20.0,
+        "notes": "Strength training"
+    },
+    {
+        "date": "2026-11-18",
+        "category": "hydration",
+        "value": 7.0,
+        "notes": "Morning water + electrolytes"
+    },
+    {
+        "date": "2026-11-19",
+        "category": "reading",
+        "value": 25.0,
+        "notes": "Clean Code chapter"
+    },
+    {
+        "date": "2026-11-19",
+        "category": "exercise",
+        "value": 50.0,
+        "notes": "Cycling session"
+    },
+    {
+        "date": "2026-11-19",
+        "category": "hydration",
+        "value": 8.0,
+        "notes": "Post-workout hydration"
+    },
+    {
+        "date": "2026-11-20",
+        "category": "reading",
+        "value": 25.0,
+        "notes": "Morning non-fiction"
+    },
+    {
+        "date": "2026-11-20",
+        "category": "exercise",
+        "value": 45.0,
+        "notes": "Strength training"
+    },
+    {
+        "date": "2026-11-20",
+        "category": "hydration",
+        "value": 10.0,
+        "notes": "Post-workout hydration"
+    },
+    {
+        "date": "2026-11-21",
+        "category": "reading",
+        "value": 60.0,
+        "notes": "Clean Code chapter"
+    },
+    {
+        "date": "2026-11-21",
+        "category": "exercise",
+        "value": 60.0,
+        "notes": "Strength training"
+    },
+    {
+        "date": "2026-11-21",
+        "category": "hydration",
+        "value": 9.0,
+        "notes": "Desk bottle refills"
+    },
+    {
+        "date": "2026-11-22",
+        "category": "reading",
+        "value": 25.0,
+        "notes": "Python docs"
+    },
+    {
+        "date": "2026-11-22",
+        "category": "exercise",
+        "value": 50.0,
+        "notes": "Cycling session"
+    },
+    {
+        "date": "2026-11-22",
+        "category": "hydration",
+        "value": 10.0,
+        "notes": "Desk bottle refills"
+    }
+]

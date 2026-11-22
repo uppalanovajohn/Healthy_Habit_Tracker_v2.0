@@ -1,0 +1,7 @@
+date,category,value,notes
+2026-11-22,reading,55,Valid bulk entry 1
+2026-11-22,hydration,9,Valid bulk entry 2
+2026-99-99,exercise,40,Invalid date test
+2026-11-22,reading,950,Out of range test (>600)
+2026-11-22,meditation,20,Unsupported category test
+2026-11-22,exercise,abc,Non-numeric value test
